@@ -21,6 +21,7 @@ Per the ask, using Python and Pandas function, changed the data type of "tripdur
 
 ### Deliverable 3: Created a Story and Report
 Story 1: Created using 5 Worksheets- https://tabsoft.co/3kQKE0D
+
 Story 2: Created 2 Dashboards first and used them to create a story- https://tabsoft.co/3ypxe3D
 
 
