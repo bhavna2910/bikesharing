@@ -25,3 +25,9 @@ Story 1: Created using 5 Worksheets- https://tabsoft.co/3kQKE0D
 Story 2: Created 2 Dashboards first and used them to create a story- https://tabsoft.co/3ypxe3D
 
 
+## Results:
+1. *Checkout Times for Users* - This graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
+
+
+
+
