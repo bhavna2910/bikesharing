@@ -20,5 +20,7 @@ Per the ask, using Python and Pandas function, changed the data type of "tripdur
 5. User Trips by Gender by Weekday 
 
 ### Deliverable 3: Created a Story and Report
-Story 1: Created using 5 Worksheets- https://public.tableau.com/app/profile/bhavna.aggarwal/viz/NYC_CitiBike_Analysis_Challenge14/BikesharingAnalysis-Story1?publish=yes
-Story 2: Created 2 Dashboards first and used them to create a story- https://public.tableau.com/app/profile/bhavna.aggarwal/viz/NYC_CitiBike_Analysis_Challenge14/BikesharingAnalysis-Story2?publish=yes
+Story 1: Created using 5 Worksheets- https://tabsoft.co/3kQKE0D
+Story 2: Created 2 Dashboards first and used them to create a story- https://tabsoft.co/3ypxe3D
+
+
